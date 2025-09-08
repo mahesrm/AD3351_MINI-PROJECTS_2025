@@ -1,0 +1,23 @@
+Develop an application for Quiz System using the front end tool and database connectivity READ THE BELOW INSTRUCTIONS as your project assistance.
+quiz-system/
+├─ backend/
+│ ├─ package.json
+│ ├─ src/
+│ │ ├─ app.js (or index.js)
+│ │ ├─ routes/
+│ │ ├─ controllers/
+│ │ ├─ models/
+│ │ └─ config/
+│ └─ .env.example
+├─ frontend/
+│ ├─ package.json
+│ ├─ public/
+│ └─ src/
+│ ├─ App.js
+│ ├─ components/
+│ └─ services/
+├─ db/
+│ └─ schema.sql
+├─ .github/
+│ └─ workflows/ (optional autograding)
+└─ README.md
